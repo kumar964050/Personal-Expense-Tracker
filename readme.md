@@ -2,7 +2,7 @@
 
 This document outlines the API endpoints available for the application. Each endpoint includes information on the HTTP method, URL, request body, response format, and possible status codes.
 
-## Base URL
+## Base URL https://personal-expense-tracker-production-db9e.up.railway.app/api/transactions
 
 ## Transaction Endpoints
 
